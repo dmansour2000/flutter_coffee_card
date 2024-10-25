@@ -6,9 +6,9 @@ A simple flutter app.
 
 ### App Screenshots
 <p>
-   <img src="https://github.com/dmansour2000/android-kotlin-cleanarchitecture/blob/master/screenshots/Screenshot_20241023_101447.png", width="150" hspace="4"/>
-   <img src="https://github.com/dmansour2000/android-kotlin-cleanarchitecture/blob/master/screenshots/Screenshot_20241023_101303.png", width="150" hspace="4"/>
-   <img src="https://github.com/dmansour2000/android-kotlin-cleanarchitecture/blob/master/screenshots/Screenshot_20241023_101415.png", width="150" hspace="4"/>
+   <img src="https://github.com/dmansour2000/flutter_coffee_card/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202024-10-25%20at%2013.26.52.png", width="150" hspace="4"/>
+   <img src="https://github.com/dmansour2000/flutter_coffee_card/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202024-10-25%20at%2013.27.00.png", width="150" hspace="4"/>
+   <img src="https://github.com/dmansour2000/flutter_coffee_card/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202024-10-25%20at%2013.27.14.png", width="150" hspace="4"/>
 
 </p>
 
