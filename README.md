@@ -17,7 +17,9 @@ A simple flutter app.
 
 - Download (from the green button above) or Clone the Repository: Use git clone ``` https://github.com/dmansour2000/flutter_coffee_card.git ``` to clone this repository.
 - Install Flutter and run ``` flutter doctor ``` in the command line to make sure you installed it correctly.
-- Run the App: Open the project folder in Visual Studio Code and run the app (using the play button) on your desired Android or iOS device or Android or iOS simulator.
+- cd into the project folder
+- run ``` code . ``` to open the project folder in Visual Studio Code 
+- Run the App: Make sure you installed Flutter and Dart extensions in Visual Studio Code and run the app (using the play button) on your desired Android or iOS device or Android or iOS simulator.
 
 
 ### Contributing:
